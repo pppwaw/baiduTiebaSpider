@@ -1,5 +1,5 @@
 # baiduTiebaSpider  
-百度贴吧爬虫  
+百度贴吧爬虫,使用python3,调用模块requests,re,beautifulsoup4,lxml  
 tiezi.py:  
   爬取帖子内所有发言，无法爬楼中楼，可选只看楼主,图片加文字一起爬，保存格式html，带换行  
   函数gettiezi():  
